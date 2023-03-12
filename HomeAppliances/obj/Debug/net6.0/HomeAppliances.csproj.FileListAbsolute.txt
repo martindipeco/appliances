@@ -1,0 +1,15 @@
+D:\Martin\CS\C#_QuarkAcademy\C#\00-ElSoldado\HomeAppliances\HomeAppliances\bin\Debug\net6.0\HomeAppliances.exe
+D:\Martin\CS\C#_QuarkAcademy\C#\00-ElSoldado\HomeAppliances\HomeAppliances\bin\Debug\net6.0\HomeAppliances.deps.json
+D:\Martin\CS\C#_QuarkAcademy\C#\00-ElSoldado\HomeAppliances\HomeAppliances\bin\Debug\net6.0\HomeAppliances.runtimeconfig.json
+D:\Martin\CS\C#_QuarkAcademy\C#\00-ElSoldado\HomeAppliances\HomeAppliances\bin\Debug\net6.0\HomeAppliances.dll
+D:\Martin\CS\C#_QuarkAcademy\C#\00-ElSoldado\HomeAppliances\HomeAppliances\bin\Debug\net6.0\HomeAppliances.pdb
+D:\Martin\CS\C#_QuarkAcademy\C#\00-ElSoldado\HomeAppliances\HomeAppliances\obj\Debug\net6.0\HomeAppliances.csproj.AssemblyReference.cache
+D:\Martin\CS\C#_QuarkAcademy\C#\00-ElSoldado\HomeAppliances\HomeAppliances\obj\Debug\net6.0\HomeAppliances.GeneratedMSBuildEditorConfig.editorconfig
+D:\Martin\CS\C#_QuarkAcademy\C#\00-ElSoldado\HomeAppliances\HomeAppliances\obj\Debug\net6.0\HomeAppliances.AssemblyInfoInputs.cache
+D:\Martin\CS\C#_QuarkAcademy\C#\00-ElSoldado\HomeAppliances\HomeAppliances\obj\Debug\net6.0\HomeAppliances.AssemblyInfo.cs
+D:\Martin\CS\C#_QuarkAcademy\C#\00-ElSoldado\HomeAppliances\HomeAppliances\obj\Debug\net6.0\HomeAppliances.csproj.CoreCompileInputs.cache
+D:\Martin\CS\C#_QuarkAcademy\C#\00-ElSoldado\HomeAppliances\HomeAppliances\obj\Debug\net6.0\HomeAppliances.dll
+D:\Martin\CS\C#_QuarkAcademy\C#\00-ElSoldado\HomeAppliances\HomeAppliances\obj\Debug\net6.0\refint\HomeAppliances.dll
+D:\Martin\CS\C#_QuarkAcademy\C#\00-ElSoldado\HomeAppliances\HomeAppliances\obj\Debug\net6.0\HomeAppliances.pdb
+D:\Martin\CS\C#_QuarkAcademy\C#\00-ElSoldado\HomeAppliances\HomeAppliances\obj\Debug\net6.0\HomeAppliances.genruntimeconfig.cache
+D:\Martin\CS\C#_QuarkAcademy\C#\00-ElSoldado\HomeAppliances\HomeAppliances\obj\Debug\net6.0\ref\HomeAppliances.dll
